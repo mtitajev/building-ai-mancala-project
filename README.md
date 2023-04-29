@@ -1,7 +1,7 @@
 # building-ai-mancala-project
 AI mancala project for building ai course. View read.me file and python code file. In order to compile, you can use for example Thonny program.
 ![image of an online mancala]([https://tinyurl.com/elementsofaicat](https://www.thesprucecrafts.com/thmb/wgKihBGjC-2sueUNczl0qOP1NYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-win-at-mancala-basic-strategy-411832-FINAL-5bfd5a7d46e0fb0051f3f2f3.png))
-
+![image of a cat](/cat_image.jpg)
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
