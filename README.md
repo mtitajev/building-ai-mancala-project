@@ -31,7 +31,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-<img src="[https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://www.thesprucecrafts.com/thmb/wgKihBGjC-2sueUNczl0qOP1NYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-win-at-mancala-basic-strategy-411832-FINAL-5bfd5a7d46e0fb0051f3f2f3.png)" width="300">
+<img src="[[https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://www.wikihow.com/images/thumb/b/bf/Win-Mancala-Step-14.jpg/v4-460px-Win-Mancala-Step-14.jpg.webp)]" width="300">
 This is how you create code examples:
 ```
 def main():
