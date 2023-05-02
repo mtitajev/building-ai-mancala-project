@@ -1,79 +1,34 @@
 # building-ai-mancala-project
 AI mancala project for building ai course. View read.me file and python code file. In order to compile, you can use for example Thonny program.
-![image of an online mancala]([https://tinyurl.com/elementsofaicat](https://www.thesprucecrafts.com/thmb/wgKihBGjC-2sueUNczl0qOP1NYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-win-at-mancala-basic-strategy-411832-FINAL-5bfd5a7d46e0fb0051f3f2f3.png))
-![image of a cat](/building-ai-mancala-project/how-to-win-at-mancala-basic-strategy-411832-FINAL-5bfd5a7d46e0fb0051f3f2f3.png)
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
+Project Title
+Mancala AI Player
 
-# Project Title
+Summary
+The project is a Python-based game of Mancala, in which a player can play against a computer. The computer uses MIN MAX and alpha beta algorithms to make optimal moves and attempt to win the game.
 
-Final project for the Building AI course
+Background
+Mancala is an ancient game played in many cultures around the world. The game involves moving stones or seeds around a board with hollows, and the winner is determined by who has the most seeds at the end of the game.
 
-## Summary
+Mancala is a popular game with many variations, but playing against a computer player can be challenging. Therefore, this project aims to create an AI player to make the game more interesting and provide a good challenge to the user.
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+How is it used?
+To play the game, a user can simply run the Python script and follow the prompts on the command line to make their moves. The computer player will automatically make its own moves using the MIN MAX and alpha beta algorithms.
 
+The game can be played in any environment that supports Python. It is designed for any user who enjoys playing games and wants a challenge.
 
-## Background
+Data sources and AI methods
+The project does not require any external data sources. The AI player uses MIN MAX and alpha beta algorithms to make decisions based on the current state of the board and the available moves.
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Challenges
+The project does not solve any specific problem, but rather aims to provide an entertaining and challenging game for the user. However, some ethical considerations should be taken into account when deploying a solution like this, such as ensuring that the AI player does not use any unfair advantages or cheat.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+What next?
+The project could be expanded to include more advanced AI algorithms or additional features such as a graphical user interface. In order to expand the project, more advanced skills in artificial intelligence and game development may be required.
 
+Acknowledgments
+The project was inspired by the game of Mancala and the desire to create an AI player for the game. The AI algorithms used in the project were inspired by various resources on artificial intelligence and game development.
 
-## How is it used?
-
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-<img src="[[https://www.wikihow.com/images/thumb/b/bf/Win-Mancala-Step-14.jpg/v4-460px-Win-Mancala-Step-14.jpg.webp](https://www.thesprucecrafts.com/thmb/wgKihBGjC-2sueUNczl0qOP1NYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-win-at-mancala-basic-strategy-411832-FINAL-5bfd5a7d46e0fb0051f3f2f3.png)]" width="300">
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
-
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
-## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Board image by Hamish Darbyshire / CC BY-SA 3.0
