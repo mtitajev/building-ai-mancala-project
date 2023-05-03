@@ -2,7 +2,7 @@
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
-Project Title
+
 Mancala AI Player
 
 Summary
@@ -29,5 +29,3 @@ The project could be expanded to include more advanced AI algorithms or addition
 
 Acknowledgments
 The project was inspired by the game of Mancala and the desire to create an AI player for the game. The AI algorithms used in the project were inspired by various resources on artificial intelligence and game development.
-
-Board image by Hamish Darbyshire / CC BY-SA 3.0
